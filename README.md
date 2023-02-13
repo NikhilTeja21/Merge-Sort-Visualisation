@@ -1,6 +1,6 @@
 # Merge-Sort
 The Merge Sort algorithm first iteratively divides the array into equal partitions until each partition reduces to a single element. Then it combines them in the same manner as they were divided in an ordered way.
-## Divide and Conquer technique
+### Divide and Conquer technique
 - Merge Sort is a recursive technique wherein the unsorted elements are divided into two halves/parts and the function calls itself for the parted halves in a manner such that the halves keep recursively dividing themselves until every element is divided into single segment.
 
 ![image](https://user-images.githubusercontent.com/88529671/218426333-e158a817-e662-4d22-81c3-f08b8f9a9276.png)
